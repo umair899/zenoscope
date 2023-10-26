@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zenoscope/Screen/Auth/Login.dart';
+import 'package:zenoscope/Auth/Login.dart';
 import 'package:zenoscope/Screen/Home.dart';
 
 void main() {
